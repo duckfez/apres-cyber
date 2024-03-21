@@ -35,7 +35,6 @@
 - https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/
 - https://owasp.org/www-project-top-10-for-large-language-model-applications/
 - https://www.404media.co/amazons-hidden-chatbot-recommends-nazi-books-and-lies-about-amazon-working-conditions/
-- https://awscommunity.social/@Quinnypig/112083365101450567
 
 # Following the money
 
